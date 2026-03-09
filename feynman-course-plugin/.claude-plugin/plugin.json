@@ -1,0 +1,10 @@
+{
+  "name": "feynman-course-plugin",
+  "version": "0.3.0",
+  "description": "A Feynman-style learning compiler that transforms complex topics into structured, first-principles courses published to Notion with Mermaid visuals.",
+  "author": {
+    "name": "Abdullah Al-Dalali",
+    "email": "aldal@example.com"
+  },
+  "keywords": ["learning", "feynman", "course", "notion", "mermaid", "teaching"]
+}
