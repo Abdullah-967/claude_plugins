@@ -4,6 +4,8 @@ A Claude Code plugin that transforms complex topics into structured, first-princ
 
 ## How It Works
 
+![Pipeline flow — one command, end-to-end](assets/pipeline-flow.png)
+
 ```
 /feynman <topic> <level>
     -> Diagnose learner needs

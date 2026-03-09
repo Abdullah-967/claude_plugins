@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__playwright-docker__browser_take_screenshot",
+      "mcp__playwright-docker__browser_press_key"
+    ]
+  }
+}
